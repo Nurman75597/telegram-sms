@@ -1,4 +1,4 @@
-# Telegram SMS
+# info Bantuan
 
 <p align="center">
 <img src="https://vip1.static.reallct.com/2020/09/28/PzWnqVZgcbE7wCv.png" alt="Telegram SMS">
